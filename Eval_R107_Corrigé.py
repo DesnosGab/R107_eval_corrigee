@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 #Exercice 1:
 
 def calculer_niveau(stats):
